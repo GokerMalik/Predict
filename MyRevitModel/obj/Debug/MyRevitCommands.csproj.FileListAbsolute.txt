@@ -1,0 +1,140 @@
+C:\Users\Jeremy\Desktop\Exercises\01_10\End\MyRevitCommands\MyRevitCommands\bin\Debug\MyRevitCommands.addin
+C:\Users\Jeremy\Desktop\Exercises\01_10\End\MyRevitCommands\MyRevitCommands\bin\Debug\MyRevitCommands.dll
+C:\Users\Jeremy\Desktop\Exercises\01_10\End\MyRevitCommands\MyRevitCommands\bin\Debug\MyRevitCommands.pdb
+C:\Users\Jeremy\Desktop\Exercises\01_10\End\MyRevitCommands\MyRevitCommands\obj\Debug\MyRevitCommands.csprojAssemblyReference.cache
+C:\Users\Jeremy\Desktop\Exercises\01_10\End\MyRevitCommands\MyRevitCommands\obj\Debug\MyRevitCommands.csproj.CoreCompileInputs.cache
+C:\Users\Jeremy\Desktop\Exercises\01_10\End\MyRevitCommands\MyRevitCommands\obj\Debug\MyRevitCommands.dll
+C:\Users\Jeremy\Desktop\Exercises\01_10\End\MyRevitCommands\MyRevitCommands\obj\Debug\MyRevitCommands.pdb
+C:\Users\Jeremy\Desktop\Exercises\01_11\End\MyRevitCommands\MyRevitCommands\bin\Debug\MyRevitCommands.addin
+C:\Users\Jeremy\Desktop\Exercises\01_11\End\MyRevitCommands\MyRevitCommands\bin\Debug\MyRevitCommands.dll
+C:\Users\Jeremy\Desktop\Exercises\01_11\End\MyRevitCommands\MyRevitCommands\bin\Debug\MyRevitCommands.pdb
+C:\Users\Jeremy\Desktop\Exercises\01_11\End\MyRevitCommands\MyRevitCommands\obj\Debug\MyRevitCommands.csprojAssemblyReference.cache
+C:\Users\Jeremy\Desktop\Exercises\01_11\End\MyRevitCommands\MyRevitCommands\obj\Debug\MyRevitCommands.csproj.CoreCompileInputs.cache
+C:\Users\Jeremy\Desktop\Exercises\01_11\End\MyRevitCommands\MyRevitCommands\obj\Debug\MyRevitCommands.dll
+C:\Users\Jeremy\Desktop\Exercises\01_11\End\MyRevitCommands\MyRevitCommands\obj\Debug\MyRevitCommands.pdb
+C:\Users\Jeremy\Desktop\Exercises\02_02\Ennd\MyRevitCommands\MyRevitCommands\bin\Debug\MyRevitCommands.addin
+C:\Users\Jeremy\Desktop\Exercises\02_02\Ennd\MyRevitCommands\MyRevitCommands\bin\Debug\MyRevitCommands.dll
+C:\Users\Jeremy\Desktop\Exercises\02_02\Ennd\MyRevitCommands\MyRevitCommands\bin\Debug\MyRevitCommands.pdb
+C:\Users\Jeremy\Desktop\Exercises\02_02\Ennd\MyRevitCommands\MyRevitCommands\obj\Debug\MyRevitCommands.csprojAssemblyReference.cache
+C:\Users\Jeremy\Desktop\Exercises\02_02\Ennd\MyRevitCommands\MyRevitCommands\obj\Debug\MyRevitCommands.csproj.CoreCompileInputs.cache
+C:\Users\Jeremy\Desktop\Exercises\02_02\Ennd\MyRevitCommands\MyRevitCommands\obj\Debug\MyRevitCommands.dll
+C:\Users\Jeremy\Desktop\Exercises\02_02\Ennd\MyRevitCommands\MyRevitCommands\obj\Debug\MyRevitCommands.pdb
+C:\Users\Jeremy\Desktop\Exercises\02_04\End\MyRevitCommands\MyRevitCommands\bin\Debug\MyRevitCommands.addin
+C:\Users\Jeremy\Desktop\Exercises\02_04\End\MyRevitCommands\MyRevitCommands\bin\Debug\MyRevitCommands.dll
+C:\Users\Jeremy\Desktop\Exercises\02_04\End\MyRevitCommands\MyRevitCommands\bin\Debug\MyRevitCommands.pdb
+C:\Users\Jeremy\Desktop\Exercises\02_04\End\MyRevitCommands\MyRevitCommands\obj\Debug\MyRevitCommands.csprojAssemblyReference.cache
+C:\Users\Jeremy\Desktop\Exercises\02_04\End\MyRevitCommands\MyRevitCommands\obj\Debug\MyRevitCommands.csproj.CoreCompileInputs.cache
+C:\Users\Jeremy\Desktop\Exercises\02_04\End\MyRevitCommands\MyRevitCommands\obj\Debug\MyRevitCommands.dll
+C:\Users\Jeremy\Desktop\Exercises\02_04\End\MyRevitCommands\MyRevitCommands\obj\Debug\MyRevitCommands.pdb
+C:\Users\Jeremy\Desktop\Exercises\02_06\Start - Copy\MyRevitCommands\MyRevitCommands\bin\Debug\MyRevitCommands.addin
+C:\Users\Jeremy\Desktop\Exercises\02_06\Start - Copy\MyRevitCommands\MyRevitCommands\bin\Debug\MyRevitCommands.dll
+C:\Users\Jeremy\Desktop\Exercises\02_06\Start - Copy\MyRevitCommands\MyRevitCommands\bin\Debug\MyRevitCommands.pdb
+C:\Users\Jeremy\Desktop\Exercises\02_06\Start - Copy\MyRevitCommands\MyRevitCommands\obj\Debug\MyRevitCommands.csprojAssemblyReference.cache
+C:\Users\Jeremy\Desktop\Exercises\02_06\Start - Copy\MyRevitCommands\MyRevitCommands\obj\Debug\MyRevitCommands.csproj.CoreCompileInputs.cache
+C:\Users\Jeremy\Desktop\Exercises\02_06\Start - Copy\MyRevitCommands\MyRevitCommands\obj\Debug\MyRevitCommands.dll
+C:\Users\Jeremy\Desktop\Exercises\02_06\Start - Copy\MyRevitCommands\MyRevitCommands\obj\Debug\MyRevitCommands.pdb
+C:\Users\Jeremy\Desktop\Exercises\02_07\End\MyRevitCommands\MyRevitCommands\bin\Debug\MyRevitCommands.addin
+C:\Users\Jeremy\Desktop\Exercises\02_07\End\MyRevitCommands\MyRevitCommands\bin\Debug\MyRevitCommands.dll
+C:\Users\Jeremy\Desktop\Exercises\02_07\End\MyRevitCommands\MyRevitCommands\bin\Debug\MyRevitCommands.pdb
+C:\Users\Jeremy\Desktop\Exercises\02_07\End\MyRevitCommands\MyRevitCommands\obj\Debug\MyRevitCommands.csprojAssemblyReference.cache
+C:\Users\Jeremy\Desktop\Exercises\02_07\End\MyRevitCommands\MyRevitCommands\obj\Debug\MyRevitCommands.csproj.CoreCompileInputs.cache
+C:\Users\Jeremy\Desktop\Exercises\02_07\End\MyRevitCommands\MyRevitCommands\obj\Debug\MyRevitCommands.dll
+C:\Users\Jeremy\Desktop\Exercises\02_07\End\MyRevitCommands\MyRevitCommands\obj\Debug\MyRevitCommands.pdb
+C:\Users\Jeremy\Desktop\Exercises\02_08\End\MyRevitCommands\MyRevitCommands\bin\Debug\MyRevitCommands.addin
+C:\Users\Jeremy\Desktop\Exercises\02_08\End\MyRevitCommands\MyRevitCommands\bin\Debug\MyRevitCommands.dll
+C:\Users\Jeremy\Desktop\Exercises\02_08\End\MyRevitCommands\MyRevitCommands\bin\Debug\MyRevitCommands.pdb
+C:\Users\Jeremy\Desktop\Exercises\02_08\End\MyRevitCommands\MyRevitCommands\obj\Debug\MyRevitCommands.csprojAssemblyReference.cache
+C:\Users\Jeremy\Desktop\Exercises\02_08\End\MyRevitCommands\MyRevitCommands\obj\Debug\MyRevitCommands.csproj.CoreCompileInputs.cache
+C:\Users\Jeremy\Desktop\Exercises\02_08\End\MyRevitCommands\MyRevitCommands\obj\Debug\MyRevitCommands.dll
+C:\Users\Jeremy\Desktop\Exercises\02_08\End\MyRevitCommands\MyRevitCommands\obj\Debug\MyRevitCommands.pdb
+C:\Users\Jeremy\Desktop\Exercises\02_09\End\MyRevitCommands\MyRevitCommands\bin\Debug\MyRevitCommands.addin
+C:\Users\Jeremy\Desktop\Exercises\02_09\End\MyRevitCommands\MyRevitCommands\bin\Debug\MyRevitCommands.dll
+C:\Users\Jeremy\Desktop\Exercises\02_09\End\MyRevitCommands\MyRevitCommands\bin\Debug\MyRevitCommands.pdb
+C:\Users\Jeremy\Desktop\Exercises\02_09\End\MyRevitCommands\MyRevitCommands\obj\Debug\MyRevitCommands.csprojAssemblyReference.cache
+C:\Users\Jeremy\Desktop\Exercises\02_09\End\MyRevitCommands\MyRevitCommands\obj\Debug\MyRevitCommands.csproj.CoreCompileInputs.cache
+C:\Users\Jeremy\Desktop\Exercises\02_09\End\MyRevitCommands\MyRevitCommands\obj\Debug\MyRevitCommands.dll
+C:\Users\Jeremy\Desktop\Exercises\02_09\End\MyRevitCommands\MyRevitCommands\obj\Debug\MyRevitCommands.pdb
+C:\Users\Jeremy\Desktop\Exercises\02_10\End\MyRevitCommands\MyRevitCommands\bin\Debug\MyRevitCommands.addin
+C:\Users\Jeremy\Desktop\Exercises\02_10\End\MyRevitCommands\MyRevitCommands\bin\Debug\MyRevitCommands.dll
+C:\Users\Jeremy\Desktop\Exercises\02_10\End\MyRevitCommands\MyRevitCommands\bin\Debug\MyRevitCommands.pdb
+C:\Users\Jeremy\Desktop\Exercises\02_10\End\MyRevitCommands\MyRevitCommands\obj\Debug\MyRevitCommands.csprojAssemblyReference.cache
+C:\Users\Jeremy\Desktop\Exercises\02_10\End\MyRevitCommands\MyRevitCommands\obj\Debug\MyRevitCommands.csproj.CoreCompileInputs.cache
+C:\Users\Jeremy\Desktop\Exercises\02_10\End\MyRevitCommands\MyRevitCommands\obj\Debug\MyRevitCommands.dll
+C:\Users\Jeremy\Desktop\Exercises\02_10\End\MyRevitCommands\MyRevitCommands\obj\Debug\MyRevitCommands.pdb
+C:\Users\Jeremy\Desktop\Exercises\02_11\End\MyRevitCommands\MyRevitCommands\bin\Debug\MyRevitCommands.addin
+C:\Users\Jeremy\Desktop\Exercises\02_11\End\MyRevitCommands\MyRevitCommands\bin\Debug\MyRevitCommands.dll
+C:\Users\Jeremy\Desktop\Exercises\02_11\End\MyRevitCommands\MyRevitCommands\bin\Debug\MyRevitCommands.pdb
+C:\Users\Jeremy\Desktop\Exercises\02_11\End\MyRevitCommands\MyRevitCommands\obj\Debug\MyRevitCommands.csprojAssemblyReference.cache
+C:\Users\Jeremy\Desktop\Exercises\02_11\End\MyRevitCommands\MyRevitCommands\obj\Debug\MyRevitCommands.csproj.CoreCompileInputs.cache
+C:\Users\Jeremy\Desktop\Exercises\02_11\End\MyRevitCommands\MyRevitCommands\obj\Debug\MyRevitCommands.dll
+C:\Users\Jeremy\Desktop\Exercises\02_11\End\MyRevitCommands\MyRevitCommands\obj\Debug\MyRevitCommands.pdb
+C:\Users\Jeremy\Desktop\Exercises\02_12\End\MyRevitCommands\MyRevitCommands\bin\Debug\MyRevitCommands.addin
+C:\Users\Jeremy\Desktop\Exercises\02_12\End\MyRevitCommands\MyRevitCommands\bin\Debug\MyRevitCommands.dll
+C:\Users\Jeremy\Desktop\Exercises\02_12\End\MyRevitCommands\MyRevitCommands\bin\Debug\MyRevitCommands.pdb
+C:\Users\Jeremy\Desktop\Exercises\02_12\End\MyRevitCommands\MyRevitCommands\obj\Debug\MyRevitCommands.csprojAssemblyReference.cache
+C:\Users\Jeremy\Desktop\Exercises\02_12\End\MyRevitCommands\MyRevitCommands\obj\Debug\MyRevitCommands.csproj.CoreCompileInputs.cache
+C:\Users\Jeremy\Desktop\Exercises\02_12\End\MyRevitCommands\MyRevitCommands\obj\Debug\MyRevitCommands.dll
+C:\Users\Jeremy\Desktop\Exercises\02_12\End\MyRevitCommands\MyRevitCommands\obj\Debug\MyRevitCommands.pdb
+C:\Users\Jeremy\Desktop\Exercises\03_01\End\MyRevitCommands\MyRevitCommands\bin\Debug\MyRevitCommands.addin
+C:\Users\Jeremy\Desktop\Exercises\03_01\End\MyRevitCommands\MyRevitCommands\bin\Debug\MyRevitCommands.dll
+C:\Users\Jeremy\Desktop\Exercises\03_01\End\MyRevitCommands\MyRevitCommands\bin\Debug\MyRevitCommands.pdb
+C:\Users\Jeremy\Desktop\Exercises\03_01\End\MyRevitCommands\MyRevitCommands\obj\Debug\MyRevitCommands.csprojAssemblyReference.cache
+C:\Users\Jeremy\Desktop\Exercises\03_01\End\MyRevitCommands\MyRevitCommands\obj\Debug\MyRevitCommands.csproj.CoreCompileInputs.cache
+C:\Users\Jeremy\Desktop\Exercises\03_01\End\MyRevitCommands\MyRevitCommands\obj\Debug\MyRevitCommands.dll
+C:\Users\Jeremy\Desktop\Exercises\03_01\End\MyRevitCommands\MyRevitCommands\obj\Debug\MyRevitCommands.pdb
+C:\Users\Jeremy\Desktop\Exercises\03_02\End\MyRevitCommands\MyRevitCommands\bin\Debug\MyRevitCommands.addin
+C:\Users\Jeremy\Desktop\Exercises\03_02\End\MyRevitCommands\MyRevitCommands\bin\Debug\MyRevitCommands.dll
+C:\Users\Jeremy\Desktop\Exercises\03_02\End\MyRevitCommands\MyRevitCommands\bin\Debug\MyRevitCommands.pdb
+C:\Users\Jeremy\Desktop\Exercises\03_02\End\MyRevitCommands\MyRevitCommands\obj\Debug\MyRevitCommands.csprojAssemblyReference.cache
+C:\Users\Jeremy\Desktop\Exercises\03_02\End\MyRevitCommands\MyRevitCommands\obj\Debug\MyRevitCommands.csproj.CoreCompileInputs.cache
+C:\Users\Jeremy\Desktop\Exercises\03_02\End\MyRevitCommands\MyRevitCommands\obj\Debug\MyRevitCommands.dll
+C:\Users\Jeremy\Desktop\Exercises\03_02\End\MyRevitCommands\MyRevitCommands\obj\Debug\MyRevitCommands.pdb
+C:\Users\Jeremy\Desktop\Exercises\03_04\End\MyRevitCommands\MyRevitCommands\bin\Debug\MyRevitCommands.addin
+C:\Users\Jeremy\Desktop\Exercises\03_04\End\MyRevitCommands\MyRevitCommands\bin\Debug\MyRevitCommands.dll
+C:\Users\Jeremy\Desktop\Exercises\03_04\End\MyRevitCommands\MyRevitCommands\bin\Debug\MyRevitCommands.pdb
+C:\Users\Jeremy\Desktop\Exercises\03_04\End\MyRevitCommands\MyRevitCommands\obj\Debug\MyRevitCommands.csprojAssemblyReference.cache
+C:\Users\Jeremy\Desktop\Exercises\03_04\End\MyRevitCommands\MyRevitCommands\obj\Debug\MyRevitCommands.csproj.CoreCompileInputs.cache
+C:\Users\Jeremy\Desktop\Exercises\03_04\End\MyRevitCommands\MyRevitCommands\obj\Debug\MyRevitCommands.dll
+C:\Users\Jeremy\Desktop\Exercises\03_04\End\MyRevitCommands\MyRevitCommands\obj\Debug\MyRevitCommands.pdb
+C:\Users\Jeremy\Desktop\Exercises\03_05\End\MyRevitCommands\MyRevitCommands\bin\Debug\MyRevitCommands.addin
+C:\Users\Jeremy\Desktop\Exercises\03_05\End\MyRevitCommands\MyRevitCommands\bin\Debug\MyRevitCommands.dll
+C:\Users\Jeremy\Desktop\Exercises\03_05\End\MyRevitCommands\MyRevitCommands\bin\Debug\MyRevitCommands.pdb
+C:\Users\Jeremy\Desktop\Exercises\03_05\End\MyRevitCommands\MyRevitCommands\obj\Debug\MyRevitCommands.csprojAssemblyReference.cache
+C:\Users\Jeremy\Desktop\Exercises\03_05\End\MyRevitCommands\MyRevitCommands\obj\Debug\MyRevitCommands.csproj.CoreCompileInputs.cache
+C:\Users\Jeremy\Desktop\Exercises\03_05\End\MyRevitCommands\MyRevitCommands\obj\Debug\MyRevitCommands.dll
+C:\Users\Jeremy\Desktop\Exercises\03_05\End\MyRevitCommands\MyRevitCommands\obj\Debug\MyRevitCommands.pdb
+C:\Users\Jeremy\Desktop\Exercises\03_06\End\MyRevitCommands\MyRevitCommands\bin\Debug\MyRevitCommands.addin
+C:\Users\Jeremy\Desktop\Exercises\03_06\End\MyRevitCommands\MyRevitCommands\bin\Debug\MyRevitCommands.dll
+C:\Users\Jeremy\Desktop\Exercises\03_06\End\MyRevitCommands\MyRevitCommands\bin\Debug\MyRevitCommands.pdb
+C:\Users\Jeremy\Desktop\Exercises\03_06\End\MyRevitCommands\MyRevitCommands\obj\Debug\MyRevitCommands.csprojAssemblyReference.cache
+C:\Users\Jeremy\Desktop\Exercises\03_06\End\MyRevitCommands\MyRevitCommands\obj\Debug\MyRevitCommands.csproj.CoreCompileInputs.cache
+C:\Users\Jeremy\Desktop\Exercises\03_06\End\MyRevitCommands\MyRevitCommands\obj\Debug\MyRevitCommands.dll
+C:\Users\Jeremy\Desktop\Exercises\03_06\End\MyRevitCommands\MyRevitCommands\obj\Debug\MyRevitCommands.pdb
+C:\Users\Jeremy\Desktop\Exercises\04_01\Start - Copy\MyRevitCommands\MyRevitCommands\bin\Debug\MyRevitCommands.addin
+C:\Users\Jeremy\Desktop\Exercises\04_01\Start - Copy\MyRevitCommands\MyRevitCommands\bin\Debug\MyRevitCommands.dll
+C:\Users\Jeremy\Desktop\Exercises\04_01\Start - Copy\MyRevitCommands\MyRevitCommands\bin\Debug\MyRevitCommands.pdb
+C:\Users\Jeremy\Desktop\Exercises\04_01\Start - Copy\MyRevitCommands\MyRevitCommands\obj\Debug\MyRevitCommands.csprojAssemblyReference.cache
+C:\Users\Jeremy\Desktop\Exercises\04_01\Start - Copy\MyRevitCommands\MyRevitCommands\obj\Debug\MyRevitCommands.csproj.CoreCompileInputs.cache
+C:\Users\Jeremy\Desktop\Exercises\04_01\Start - Copy\MyRevitCommands\MyRevitCommands\obj\Debug\MyRevitCommands.dll
+C:\Users\Jeremy\Desktop\Exercises\04_01\Start - Copy\MyRevitCommands\MyRevitCommands\obj\Debug\MyRevitCommands.pdb
+C:\Users\Jeremy\Desktop\Exercises\04_02\Start - Copy\MyRevitCommands\MyRevitCommands\bin\Debug\MyRevitCommands.addin
+C:\Users\Jeremy\Desktop\Exercises\04_02\Start - Copy\MyRevitCommands\MyRevitCommands\bin\Debug\MyRevitCommands.dll
+C:\Users\Jeremy\Desktop\Exercises\04_02\Start - Copy\MyRevitCommands\MyRevitCommands\bin\Debug\MyRevitCommands.pdb
+C:\Users\Jeremy\Desktop\Exercises\04_02\Start - Copy\MyRevitCommands\MyRevitCommands\obj\Debug\MyRevitCommands.csprojAssemblyReference.cache
+C:\Users\Jeremy\Desktop\Exercises\04_02\Start - Copy\MyRevitCommands\MyRevitCommands\obj\Debug\MyRevitCommands.csproj.CoreCompileInputs.cache
+C:\Users\Jeremy\Desktop\Exercises\04_02\Start - Copy\MyRevitCommands\MyRevitCommands\obj\Debug\MyRevitCommands.dll
+C:\Users\Jeremy\Desktop\Exercises\04_02\Start - Copy\MyRevitCommands\MyRevitCommands\obj\Debug\MyRevitCommands.pdb
+C:\Users\Jeremy\Desktop\Exercises\04_03\End\MyRevitCommands\MyRevitCommands\bin\Debug\MyRevitCommands.addin
+C:\Users\Jeremy\Desktop\Exercises\04_03\End\MyRevitCommands\MyRevitCommands\bin\Debug\MyRevitCommands.dll
+C:\Users\Jeremy\Desktop\Exercises\04_03\End\MyRevitCommands\MyRevitCommands\bin\Debug\MyRevitCommands.pdb
+C:\Users\Jeremy\Desktop\Exercises\04_03\End\MyRevitCommands\MyRevitCommands\obj\Debug\MyRevitCommands.csprojAssemblyReference.cache
+C:\Users\Jeremy\Desktop\Exercises\04_03\End\MyRevitCommands\MyRevitCommands\obj\Debug\MyRevitCommands.csproj.CoreCompileInputs.cache
+C:\Users\Jeremy\Desktop\Exercises\04_03\End\MyRevitCommands\MyRevitCommands\obj\Debug\MyRevitCommands.dll
+C:\Users\Jeremy\Desktop\Exercises\04_03\End\MyRevitCommands\MyRevitCommands\obj\Debug\MyRevitCommands.pdb
+C:\Users\Jeremy\Desktop\Exercises\04_04\End\MyRevitCommands\MyRevitCommands\bin\Debug\MyRevitCommands.addin
+C:\Users\Jeremy\Desktop\Exercises\04_04\End\MyRevitCommands\MyRevitCommands\bin\Debug\MyRevitCommands.dll
+C:\Users\Jeremy\Desktop\Exercises\04_04\End\MyRevitCommands\MyRevitCommands\bin\Debug\MyRevitCommands.pdb
+C:\Users\Jeremy\Desktop\Exercises\04_04\End\MyRevitCommands\MyRevitCommands\obj\Debug\MyRevitCommands.csprojAssemblyReference.cache
+C:\Users\Jeremy\Desktop\Exercises\04_04\End\MyRevitCommands\MyRevitCommands\obj\Debug\MyRevitCommands.csproj.CoreCompileInputs.cache
+C:\Users\Jeremy\Desktop\Exercises\04_04\End\MyRevitCommands\MyRevitCommands\obj\Debug\MyRevitCommands.dll
+C:\Users\Jeremy\Desktop\Exercises\04_04\End\MyRevitCommands\MyRevitCommands\obj\Debug\MyRevitCommands.pdb

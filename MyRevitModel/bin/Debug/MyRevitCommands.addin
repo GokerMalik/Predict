@@ -1,0 +1,224 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Name>MyRevitCommands</Name>
+    <Assembly>MyRevitCommands.dll</Assembly>
+    <AddInId>
+      973072FB-3FEB-4A5E-924B-484400328463
+    </AddInId>
+    <FullClassName>MyRevitCommands.GetElementId</FullClassName>
+    <Text>GetElementId</Text>
+    <Description>Get the Id from an element</Description>
+    <VendorId>Jeremy</VendorId>
+    <VendorDescription>@Learndynamo</VendorDescription>
+    <VisibilityMode>NotVisibleWhenNoActiveDocument</VisibilityMode>
+  </AddIn>
+  <AddIn Type="Command">
+    <Name>MyRevitCommands</Name>
+    <Assembly>MyRevitCommands.dll</Assembly>
+    <AddInId>
+      992254E6-FCDF-4158-9C4D-B4E47EE0498F
+    </AddInId>
+    <FullClassName>MyRevitCommands.CollectWindows</FullClassName>
+    <Text>CollectWindows</Text>
+    <Description>Collect windows from a document</Description>
+    <VendorId>Jeremy</VendorId>
+    <VendorDescription>@Learndynamo</VendorDescription>
+    <VisibilityMode>NotVisibleWhenNoActiveDocument</VisibilityMode>
+  </AddIn>
+  <AddIn Type="Command">
+    <Name>MyRevitCommands</Name>
+    <Assembly>MyRevitCommands.dll</Assembly>
+    <AddInId>
+      CD24F7FD-486F-412D-97EE-BC1C58BF35C8
+    </AddInId>
+    <FullClassName>MyRevitCommands.DeleteElement</FullClassName>
+    <Text>DeleteElement</Text>
+    <Description>Deletes an Element from the document</Description>
+    <VendorId>Jeremy</VendorId>
+    <VendorDescription>@Learndynamo</VendorDescription>
+    <VisibilityMode>NotVisibleWhenNoActiveDocument</VisibilityMode>
+  </AddIn>
+  <AddIn Type="Command">
+    <Name>MyRevitCommands</Name>
+    <Assembly>MyRevitCommands.dll</Assembly>
+    <AddInId>
+      2B5321F3-56B3-4D6A-BEB0-A52A5B068F79
+    </AddInId>
+    <FullClassName>MyRevitCommands.PlaceFamily</FullClassName>
+    <Text>PlaceFamily</Text>
+    <Description>Place family in the document</Description>
+    <VendorId>Jeremy</VendorId>
+    <VendorDescription>@Learndynamo</VendorDescription>
+    <VisibilityMode>NotVisibleWhenNoActiveDocument</VisibilityMode>
+  </AddIn>
+  <AddIn Type="Command">
+    <Name>MyRevitCommands</Name>
+    <Assembly>MyRevitCommands.dll</Assembly>
+    <AddInId>
+      CB137838-763D-48A0-8FB6-63048B8E92E9
+    </AddInId>
+    <FullClassName>MyRevitCommands.PlaceLineElement</FullClassName>
+    <Text>PlaceLineElement</Text>
+    <Description>Place line element in the document</Description>
+    <VendorId>Jeremy</VendorId>
+    <VendorDescription>@Learndynamo</VendorDescription>
+    <VisibilityMode>NotVisibleWhenNoActiveDocument</VisibilityMode>
+  </AddIn>
+  <AddIn Type="Command">
+    <Name>MyRevitCommands</Name>
+    <Assembly>MyRevitCommands.dll</Assembly>
+    <AddInId>
+      9CB60F4F-20BB-4029-8BB1-AECE2461E5E2
+    </AddInId>
+    <FullClassName>MyRevitCommands.PlaceLoopElement</FullClassName>
+    <Text>PlaceLoopElement</Text>
+    <Description>Place loop element in the document</Description>
+    <VendorId>Jeremy</VendorId>
+    <VendorDescription>@Learndynamo</VendorDescription>
+    <VisibilityMode>NotVisibleWhenNoActiveDocument</VisibilityMode>
+  </AddIn>
+  <AddIn Type="Command">
+    <Name>MyRevitCommands</Name>
+    <Assembly>MyRevitCommands.dll</Assembly>
+    <AddInId>
+      5CDADD8F-5C29-402F-BA5B-E2CB2BCC8620
+    </AddInId>
+    <FullClassName>MyRevitCommands.GetParameter</FullClassName>
+    <Text>GetParameter</Text>
+    <Description>Get Parameter of window</Description>
+    <VendorId>Jeremy</VendorId>
+    <VendorDescription>@Learndynamo</VendorDescription>
+    <VisibilityMode>NotVisibleWhenNoActiveDocument</VisibilityMode>
+  </AddIn>
+  <AddIn Type="Command">
+    <Name>MyRevitCommands</Name>
+    <Assembly>MyRevitCommands.dll</Assembly>
+    <AddInId>
+      7F09CFFD-BFFF-406C-AE83-57270989EB26
+    </AddInId>
+    <FullClassName>MyRevitCommands.SetParameter</FullClassName>
+    <Text>SetParameter</Text>
+    <Description>Set Parameter of window</Description>
+    <VendorId>Jeremy</VendorId>
+    <VendorDescription>@Learndynamo</VendorDescription>
+    <VisibilityMode>NotVisibleWhenNoActiveDocument</VisibilityMode>
+  </AddIn>
+  <AddIn Type="Command">
+    <Name>MyRevitCommands</Name>
+    <Assembly>MyRevitCommands.dll</Assembly>
+    <AddInId>
+      AF94DF70-CBD7-4553-B431-421E611758F6
+    </AddInId>
+    <FullClassName>MyRevitCommands.ChangeLocation</FullClassName>
+    <Text>ChangeLocation</Text>
+    <Description>Set location point of element</Description>
+    <VendorId>Jeremy</VendorId>
+    <VendorDescription>@Learndynamo</VendorDescription>
+    <VisibilityMode>NotVisibleWhenNoActiveDocument</VisibilityMode>
+  </AddIn>
+  <AddIn Type="Command">
+    <Name>MyRevitCommands</Name>
+    <Assembly>MyRevitCommands.dll</Assembly>
+    <AddInId>
+      52160E59-E760-41D2-BAC7-148A31057B0A
+    </AddInId>
+    <FullClassName>MyRevitCommands.EditElement</FullClassName>
+    <Text>EditElement</Text>
+    <Description>Move, rotate and copy an element</Description>
+    <VendorId>Jeremy</VendorId>
+    <VendorDescription>@Learndynamo</VendorDescription>
+    <VisibilityMode>NotVisibleWhenNoActiveDocument</VisibilityMode>
+  </AddIn>
+  <AddIn Type="Command">
+    <Name>MyRevitCommands</Name>
+    <Assembly>MyRevitCommands.dll</Assembly>
+    <AddInId>
+      15B7F8AE-2A80-43C2-A8C6-6E4D2C4A7D9A
+    </AddInId>
+    <FullClassName>MyRevitCommands.SelectGeometry</FullClassName>
+    <Text>SelectGeometry</Text>
+    <Description>Get Geometry of an element</Description>
+    <VendorId>Jeremy</VendorId>
+    <VendorDescription>@Learndynamo</VendorDescription>
+    <VisibilityMode>NotVisibleWhenNoActiveDocument</VisibilityMode>
+  </AddIn>
+  <AddIn Type="Command">
+    <Name>MyRevitCommands</Name>
+    <Assembly>MyRevitCommands.dll</Assembly>
+    <AddInId>
+      654126B3-CA1A-44E2-B7CF-0DD06CBEB7C1
+    </AddInId>
+    <FullClassName>MyRevitCommands.ElementIntersection</FullClassName>
+    <Text>ElementIntersection</Text>
+    <Description>Check for intersecting element</Description>
+    <VendorId>Jeremy</VendorId>
+    <VendorDescription>@Learndynamo</VendorDescription>
+    <VisibilityMode>NotVisibleWhenNoActiveDocument</VisibilityMode>
+  </AddIn>
+  <AddIn Type="Command">
+    <Name>MyRevitCommands</Name>
+    <Assembly>MyRevitCommands.dll</Assembly>
+    <AddInId>
+      65B40155-333C-4FD7-B590-AC56EBD6EA93
+    </AddInId>
+    <FullClassName>MyRevitCommands.ProjectRay</FullClassName>
+    <Text>ProjectRay</Text>
+    <Description>Project Ray to find roof</Description>
+    <VendorId>Jeremy</VendorId>
+    <VendorDescription>@Learndynamo</VendorDescription>
+    <VisibilityMode>NotVisibleWhenNoActiveDocument</VisibilityMode>
+  </AddIn>
+  <AddIn Type="Command">
+    <Name>MyRevitCommands</Name>
+    <Assembly>MyRevitCommands.dll</Assembly>
+    <AddInId>
+      0D682673-A59A-4888-98F2-E76118B39F90
+    </AddInId>
+    <FullClassName>MyRevitCommands.PlanView</FullClassName>
+    <Text>PlanView</Text>
+    <Description>Create a plan view</Description>
+    <VendorId>Jeremy</VendorId>
+    <VendorDescription>@Learndynamo</VendorDescription>
+    <VisibilityMode>NotVisibleWhenNoActiveDocument</VisibilityMode>
+  </AddIn>
+  <AddIn Type="Command">
+    <Name>MyRevitCommands</Name>
+    <Assembly>MyRevitCommands.dll</Assembly>
+    <AddInId>
+      C2328365-5097-4636-BC97-5EC42EBD5C8A
+    </AddInId>
+    <FullClassName>MyRevitCommands.ViewFilter</FullClassName>
+    <Text>ViewFilter</Text>
+    <Description>Apply a view filter</Description>
+    <VendorId>Jeremy</VendorId>
+    <VendorDescription>@Learndynamo</VendorDescription>
+    <VisibilityMode>NotVisibleWhenNoActiveDocument</VisibilityMode>
+  </AddIn>
+  <AddIn Type="Command">
+    <Name>MyRevitCommands</Name>
+    <Assembly>MyRevitCommands.dll</Assembly>
+    <AddInId>
+      A2A3349F-A385-4C56-B1BE-64F4A67775C5
+    </AddInId>
+    <FullClassName>MyRevitCommands.TagView</FullClassName>
+    <Text>TagView</Text>
+    <Description>Tag elements in a view</Description>
+    <VendorId>Jeremy</VendorId>
+    <VendorDescription>@Learndynamo</VendorDescription>
+    <VisibilityMode>NotVisibleWhenNoActiveDocument</VisibilityMode>
+  </AddIn>
+  <AddIn Type="Command">
+    <Name>MyRevitCommands</Name>
+    <Assembly>MyRevitCommands.dll</Assembly>
+    <AddInId>
+      CAFE1930-43D7-489C-A54F-ABEB4B5DBA6A
+    </AddInId>
+    <FullClassName>MyRevitCommands.Sheets</FullClassName>
+    <Text>Sheet</Text>
+    <Description>Create a new sheet</Description>
+    <VendorId>Jeremy</VendorId>
+    <VendorDescription>@Learndynamo</VendorDescription>
+    <VisibilityMode>NotVisibleWhenNoActiveDocument</VisibilityMode>
+  </AddIn>
+</RevitAddIns>

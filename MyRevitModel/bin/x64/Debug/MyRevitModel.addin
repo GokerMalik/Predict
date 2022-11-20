@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Name>MyRevitModel</Name>
+    <Assembly>MyRevitModel.dll</Assembly>
+    <AddInId>
+		368BAA11-6D5D-40B3-94FB-5D63B27440D3
+    </AddInId>
+    <FullClassName>MyRevitModel.Predict</FullClassName>
+    <Text>Predict</Text>
+    <Description>Predict the category</Description>
+    <VendorId>Joker</VendorId>
+    <VendorDescription>@Joker</VendorDescription>
+    <VisibilityMode>NotVisibleWhenNoActiveDocument</VisibilityMode>
+  </AddIn>
+</RevitAddIns>

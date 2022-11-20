@@ -1,0 +1,7 @@
+C:\Users\altar\Desktop\Predict\MyRevitModel\bin\Debug\MyRevitModel.addin
+C:\Users\altar\Desktop\Predict\MyRevitModel\bin\Debug\MyRevitModel.dll
+C:\Users\altar\Desktop\Predict\MyRevitModel\bin\Debug\MyRevitModel.pdb
+C:\Users\altar\Desktop\Predict\MyRevitModel\obj\Debug\MyRevitModel.csproj.AssemblyReference.cache
+C:\Users\altar\Desktop\Predict\MyRevitModel\obj\Debug\MyRevitModel.csproj.CoreCompileInputs.cache
+C:\Users\altar\Desktop\Predict\MyRevitModel\obj\Debug\MyRevitModel.dll
+C:\Users\altar\Desktop\Predict\MyRevitModel\obj\Debug\MyRevitModel.pdb
