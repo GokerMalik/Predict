@@ -69,7 +69,7 @@ namespace MyRevitModel
 
             try
             {
-                (float[] dataInfo, float[] probabilities) = PredictCategory(modelPath, lengths);
+                (int[] dataInfo, float[] probabilities) = PredictCategory(modelPath, lengths);
 
                 int prediction = probabilities.ToList().IndexOf(probabilities.Max());
                 string percentage = (probabilities.Max() * 100).ToString() + "%";
@@ -166,23 +166,23 @@ namespace MyRevitModel
 
             return CurLengths;
         }
-        private static (float[], float[]) PredictCategory(string modelPath, double[] EdgeDims)
+        private static (int[], float[]) PredictCategory(string modelPath, double[] EdgeDims)
         {
             InferenceSession InferSess = new InferenceSession(modelPath);
 
             string modelInputLayerName = InferSess.InputMetadata.Keys.Single();
             int[] dimensions = { 1, 3 };
 
-            float[] newDims = new float[3];
-            newDims[0] = (float)(EdgeDims[0]);
-            newDims[1] = (float)(EdgeDims[1]);
-            newDims[2] = (float)(EdgeDims[2]);
+            int[] newDims = new int[3];
+            newDims[0] = (int)(EdgeDims[0]);
+            newDims[1] = (int)(EdgeDims[1]);
+            newDims[2] = (int)(EdgeDims[2]);
 
-            //DenseTensor<int> inputTensor = new DenseTensor<int>(EdgeDims, dimensions, false);
-            DenseTensor<float> inputTensor = new DenseTensor<float>(newDims, dimensions, false);
+            DenseTensor<int> inputTensor = new DenseTensor<int>(newDims, dimensions, false);
+            //DenseTensor<float> inputTensor = new DenseTensor<float>(newDims, dimensions, false);
 
-            Memory<float> memoryBlock = inputTensor.Buffer;
-            float[] DataInfo = memoryBlock.ToArray();
+            Memory<int> memoryBlock = inputTensor.Buffer;
+            int[] DataInfo = memoryBlock.ToArray();
 
             List<NamedOnnxValue> modelInput = new List<NamedOnnxValue>
             {
